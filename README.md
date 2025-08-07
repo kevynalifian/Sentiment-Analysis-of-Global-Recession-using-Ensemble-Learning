@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-Global-Recession-using-Ensemble-Learning
+The 2023 Global Recession affects many countries, including Indonesia. Indonesians have voiced their views, especially on Twitter. This research uses sentiment analysis to understand public response and assess the impact. It supports evaluating Indonesia’s resilience to the recession in line with the Sustainable Development Goals (SDGs)
